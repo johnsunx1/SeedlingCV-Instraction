@@ -140,4 +140,4 @@ https://github.com/14385423
 
 https://github.com/ZCFzhaochuanfei
 
-# For more information, please refer to：https://gitee.com/deepbiology/seedlingcv/blob/master/English-instruction/expert.md
+
